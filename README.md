@@ -13,3 +13,4 @@ $ source venv/bin/activate
 (venv) $ python earth-moon-system.py
 ```
 
+This produces the PNG file in the repo.
